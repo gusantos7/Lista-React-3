@@ -1,0 +1,61 @@
+.exercicio {
+    border-radius: 20px 20px 0;
+    background-color: #edfaff;
+}
+.listaNomes{
+    margin-left: 22.5%;
+    width: 50%;
+}
+
+table{
+    width: 100%;
+    background-color: #e3ffbb;
+    border-radius: 20px 20px 0 0;
+    border: 1px solid black;
+}
+tr{
+    width: 40px;
+}
+th{
+    border-radius: 20px 20px 0 0;
+    height: 40px;
+    border: 1px solid black;
+}
+td{
+    width: 33%;
+    border: 1px solid black;
+}
+
+img{
+    width: 200px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#destacado{
+    margin-left: 25%;
+    width: 50%;
+    color: black;
+    background-color: #fffd89;
+    font-weight: 800;
+}
+
+#tarefas{
+    margin-left: 25%;
+    width: 50%;
+}
+#remover{
+    border: 1px solid black;
+    margin: 1%;
+    font-size: 12px;
+}
+
+.card{
+    width: 70%;
+    margin-left: 15%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    align-items: center;
+    background-color: aqua;
+    box-shadow: 0 2px 4px black;
+}
